@@ -194,6 +194,7 @@ div .video{
 }
 
 div .video iframe{
+    width: 100%;
     position: absolute;
     top: 5%;
     left: 5%;
